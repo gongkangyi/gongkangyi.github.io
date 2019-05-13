@@ -4,14 +4,12 @@ repository: Git repository where your resume will be hosted, only required if yo
 
 # Personal info
 name: 龚康奕
-title: 硕士研究生
+title: 西安电子科技大学
 email: gongkangyi@foxmail.com
 phone: 132-2706-8032
-website: Your website (eg. https://google.com)(optional)
 
 # Social links
 
-github_username:  gongkangyi
 
 # About Section
 # about_title: About Me (Use this to override about section title)
