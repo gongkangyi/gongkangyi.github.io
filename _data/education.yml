@@ -2,15 +2,31 @@
 - name: Xidian University
   dates: 2017.9 - 2020.6
   qualification: Xi'an, China
-  quote: >
+  quote: 
     Electronic and Communication Engineering(Master Degree)
   description: | # this will include new lines to allow paragraphs
-    Digital Image and Video Processing、IoT、Fog Computing
-
+    <mark>Digital Image and Video Processing、IoT、Fog Computing</mark>
+    In computer science, digital image processing is the use of computer algorithms 
+    to perform image processing on digital images.[1] As a subcategory or field of 
+    digital signal processing, digital image processing has many advantages over 
+    analog image processing. It allows a much wider range of algorithms to be 
+    applied to the input data and can avoid problems such as the build-up of 
+    noise and signal distortion during processing. Since images are defined 
+    over two dimensions (perhaps more) digital image processing may be 
+    modeled in the form of multidimensional systems.
+    
 - name: Yangtze University
   dates: 2013.9 - 2017.6
   qualification: Jingzhou, China
-  quote: >
+  quote: 
     Electronic Information Engineering(Bachelor Degree)
   description: | # this will include new lines to allow paragraphs
-    Seismic Data Processing、Seismic Data Visualization
+    <mark>Seismic Data Processing、Seismic Data Visualization</mark>
+    In computer science, digital image processing is the use of computer algorithms 
+    to perform image processing on digital images.[1] As a subcategory or field of 
+    digital signal processing, digital image processing has many advantages over 
+    analog image processing. It allows a much wider range of algorithms to be 
+    applied to the input data and can avoid problems such as the build-up of 
+    noise and signal distortion during processing. Since images are defined 
+    over two dimensions (perhaps more) digital image processing may be 
+    modeled in the form of multidimensional systems.
