@@ -16,7 +16,7 @@
 
         {%- if site.twitter_username -%}
           <li>
-            <a target="_blank" href="https://gongkangyi.github.io/blog/404" class="button button--sacnite button--round-l">
+            <a target="_blank" href="https://gongkangyi.github.io/projects" class="button button--sacnite button--round-l">
               <i class="fa fa-twitter" title="Twitter link"></i>
             </a>
           </li>
@@ -24,23 +24,29 @@
         
         {%- if site.facebook_username -%}
           <li>
-            <a target="_blank" href="https://gongkangyi.github.io/blog/404" class="button button--sacnite button--round-l">
+            <a target="_blank" href="https://gongkangyi.github.io/blog" class="button button--sacnite button--round-l">
               <i class="fa fa-facebook" title="Facebook link"></i>
             </a>
           </li>
         {%- endif -%} 
 
       </ul>
-      {%- if site.website -%}
-        <p>
-          Blog: {% include a.html href=site.website %}{{ site.website | escape }}</a>
-        </p>
-      {%- endif -%}
       {%- if site.email -%}
         <p>
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
+      {%- if site.website -%}
+        <p>
+          Blog: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
+      {%- if site.website -%}
+        <p>
+          Projects: <a href="https://gongkangyi.github.io/projects">https://gongkangyi.github.io/projects</a>
+        </p>
+      {%- endif -%}
+
       {%- if site.phone -%}
         <p>
           Phone: {{ site.phone | escape }}
