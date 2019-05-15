@@ -1,8 +1,16 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: Xidian University
+  dates: 2017.9 - 2020.6
+  qualification: Electronic and Communication Engineering(Master Degree)
   quote: >
-    Short institution or course description (optional)
+    Xi'an, China
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Digital Image and Video Processing、IoT、Fog Computing
+
+- name: Yangtze University
+  dates: 2013.9 - 2017.6
+  qualification: Electronic Information Engineering(Bachelor Degree)
+  quote: >
+    Jingzhou, China
+  description: | # this will include new lines to allow paragraphs
+    Seismic Data Processing、Seismic Data Visualization
