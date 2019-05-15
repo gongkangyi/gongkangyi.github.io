@@ -36,16 +36,6 @@
           Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
         </p>
       {%- endif -%}
-      {%- if site.website -%}
-        <p>
-          Blog: {% include a.html href=site.website %}{{ site.website | escape }}</a>
-        </p>
-      {%- endif -%}
-      {%- if site.website -%}
-        <p>
-          Projects: <a href="https://gongkangyi.github.io/projects">gongkangyi.github.io/projects</a>
-        </p>
-      {%- endif -%}
 
       {%- if site.phone -%}
         <p>
