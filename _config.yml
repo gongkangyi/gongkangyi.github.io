@@ -35,11 +35,11 @@ about_content: | # this will include new lines to allow paragraphs
 # education_title: Education #(Use this to override about education section title)
 
 # More Section
-more_title: More About Me #(Use this to override about more section title)
+more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Languages:** Java, Shell, python, C/C++, matlab
+  **Languages:** Java, Shell, Python, C/C++
 
-  **Technologies:** MySQL, Spring
+  **Technologies:** Linux, Spring, MySQL, Redis
 
 
 # Footer
