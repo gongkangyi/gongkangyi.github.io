@@ -1,9 +1,8 @@
 # Project template
 - name: 3D Seismic Data Visualization System
-  link: gongkangyi.github.io/blog
+  link: gongkangyi.github.io/projects
   github:
   quote: >
-    Leader
     
   description: | # this will include new lines to allow paragraphs
     The system can help seismic data interpreters find areas of interest in 3D seismic bodies. 
