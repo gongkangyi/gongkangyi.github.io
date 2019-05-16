@@ -37,9 +37,9 @@ particularly Smart Cities, Fog Computing, Edge computing, and also Computer visi
 # More Section
 more_title: More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-**Languages:** Java, Shell, python, C/C++, matlab
+  **Languages:** Java, Shell, python, C/C++, matlab
 
-**Technologies:** MySQL, Spring
+  **Technologies:** MySQL, Spring
 
 
 # Footer
