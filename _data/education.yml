@@ -5,8 +5,7 @@
   quote: 
     Electronic and Communication Engineering(Master Degree)
   description: | # this will include new lines to allow paragraphs
-    <mark>Seismic Data Processing、Seismic Data Visualization</mark>
-    <mark>Digital Image and Video Processing、IoT、Fog Computing</mark>
+     Internet of Things (IoT), Smart Cities, Fog Computing, Edge Computing, Digital Image and Video Processing, 
     
 - name: Yangtze University
   dates: 2013.9 - 2017.6
@@ -14,5 +13,5 @@
   quote: 
     Electronic Information Engineering(Bachelor Degree)
   description: | # this will include new lines to allow paragraphs
-    <mark>Seismic Data Processing、Seismic Data Visualization</mark>
-    <mark>Digital Image and Video Processing、IoT、Fog Computing</mark>
+    Seismic Data Processin, Seismic Data Visualization, Signals and Systems, Computer Network
+    
