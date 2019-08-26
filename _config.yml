@@ -37,9 +37,9 @@ about_content: | # this will include new lines to allow paragraphs
 # More Section
 more_title: Skills #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  **Languages:** Java, Shell, Python, C/C++
+  **Languages:** Java, C/C++, Shell, Python,
 
-  **Technologies:** Linux, Spring, MySQL, Redis
+  **Technologies:** Linux, MySQL, Spring, Redis
 
 
 # Footer
